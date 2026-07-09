@@ -1,0 +1,32 @@
+! Reduced enabled lines.
+
+New Line._virtual_line0_line1_line2_line3_line4_line5_line6_line7_line8_line9_line10_line11_line12_line13_line14_line15_line16_line17_line18_line19_line20_line21_line22_line23_line24_line25_line26_line27_line28_line29_line30_line31_line32 bus1=33.1.2.3.4 bus2=sourcebus.1.2.3.4 phases=4 linecode=LC3 length=27.866511 units=m
+! reduced_from=line0,line1,line2,line3,line4,line5,line6,line7,line8,line9,line10,line11,line12,line13,line14,line15,line16,line17,line18,line19,line20,line21,line22,line23,line24,line25,line26,line27,line28,line29,line30,line31,line32
+! eliminated_buses=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
+
+New Line._virtual_line34_line36_line39_line42_line45_line48_line51 bus1=52.1.2.3.4 bus2=34.1.2.3.4 phases=4 linecode=LC6 length=14.408557 units=m
+! reduced_from=line34,line36,line39,line42,line45,line48,line51
+! eliminated_buses=35,37,40,43,46,49
+
+New Line._virtual_line37_line40_line43_line46_line49_line52_line56_line59_line62_line65_line68_line71_line74_line76_line79_line82_line85_line88_line91_line93 bus1=36.1.2.3.4 bus2=94.1.2.3.4 phases=4 linecode=LC2 length=32.18877 units=m
+! reduced_from=line37,line40,line43,line46,line49,line52,line56,line59,line62,line65,line68,line71,line74,line76,line79,line82,line85,line88,line91,line93
+! eliminated_buses=38,41,44,47,50,53,57,60,63,66,69,72,75,77,80,83,86,89,92
+
+New Line._virtual_line55_line58_line61_line64_line67_line70_line73_line75_line77_line80_line83_line86 bus1=52.1.2.3.4 bus2=87.1.2.3.4 phases=4 linecode=LC6 length=11.438564 units=m
+! reduced_from=line55,line58,line61,line64,line67,line70,line73,line75,line77,line80,line83,line86
+! eliminated_buses=56,59,62,65,68,71,74,76,78,81,84
+
+New Line._virtual_line99_line102_line106_line109_line112_line115_line117_line119_line121_line123_line125_line127_line128_line129 bus1=130.1.2.3.4 bus2=96.1.2.3.4 phases=4 linecode=LC6 length=11.340087 units=m
+! reduced_from=line99,line102,line106,line109,line112,line115,line117,line119,line121,line123,line125,line127,line128,line129
+! eliminated_buses=100,103,107,110,113,116,118,120,122,124,126,128,129
+
+New Line.LINE33 bus1=33.1.2.3.4 bus2=34.1.2.3.4 phases=4 linecode=LC4 length=3.069 units=m
+
+New Line.LINE35 bus1=34.1.2.3.4 bus2=36.1.2.3.4 phases=4 linecode=LC4 length=13.3501 units=m
+
+New Line.LINE54 bus1=52.1.2.3.4 bus2=55.1.2.3.4 phases=4 linecode=LC6 length=3.8601 units=m
+
+New Line.LINE95 bus1=94.1.2.3.4 bus2=96.1.2.3.4 phases=4 linecode=LC6 length=6.8778 units=m
+
+New Line.LINE98 bus1=96.1.2.3.4 bus2=99.1.2.3.4 phases=4 linecode=LC6 length=5.3558 units=m
+

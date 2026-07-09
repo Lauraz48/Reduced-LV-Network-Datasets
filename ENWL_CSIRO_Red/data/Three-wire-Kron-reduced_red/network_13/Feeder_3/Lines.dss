@@ -1,0 +1,20 @@
+! Reduced enabled lines.
+
+New Line._virtual_line0_line1_line2_line3_line4_line5_line6_line7_line8_line9_line10_line11_line12_line13_line14_line15_line16_line17_line18_line19_line20_line21_line22_line23_line24_line25_line26_line27_line28_line29_line30_line31_line32_line33_line34_line35 bus1=sourcebus.1.2.3 bus2=36.1.2.3 phases=3 linecode=LC8 length=42.79045 units=m
+! reduced_from=line0,line1,line2,line3,line4,line5,line6,line7,line8,line9,line10,line11,line12,line13,line14,line15,line16,line17,line18,line19,line20,line21,line22,line23,line24,line25,line26,line27,line28,line29,line30,line31,line32,line33,line34,line35
+! eliminated_buses=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35
+
+New Line._virtual_line36_line38_line40_line42_line44_line46_line48_line50_line52_line54_line56_line59_line62_line65_line68_line71_line74_line77_line80 bus1=81.1.2.3 bus2=36.1.2.3 phases=3 linecode=LC9 length=11.5104 units=m
+! reduced_from=line36,line38,line40,line42,line44,line46,line48,line50,line52,line54,line56,line59,line62,line65,line68,line71,line74,line77,line80
+! eliminated_buses=37,39,41,43,45,47,49,51,53,55,57,60,63,66,69,72,75,78
+
+New Line._virtual_line37_line39_line41_line43_line45_line47_line49_line51_line53_line55_line58 bus1=36.1.2.3 bus2=59.1.2.3 phases=3 linecode=LC8 length=33.693647 units=m
+! reduced_from=line37,line39,line41,line43,line45,line47,line49,line51,line53,line55,line58
+! eliminated_buses=38,40,42,44,46,48,50,52,54,56
+
+New Line._virtual_line61_line64_line67_line70_line73_line76_line79_line82_line85_line86_line87_line88_line89_line90_line91_line92_line93_line94_line95_line96_line97_line98_line99_line100_line101_line102_line103_line104_line105_line106 bus1=107.1.2.3 bus2=59.1.2.3 phases=3 linecode=LC9 length=36.31414 units=m
+! reduced_from=line61,line64,line67,line70,line73,line76,line79,line82,line85,line86,line87,line88,line89,line90,line91,line92,line93,line94,line95,line96,line97,line98,line99,line100,line101,line102,line103,line104,line105,line106
+! eliminated_buses=62,65,68,71,74,77,80,83,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106
+
+New Line.LINE83 bus1=81.1.2.3 bus2=84.1.2.3 phases=3 linecode=LC1 length=10.6375 units=m
+

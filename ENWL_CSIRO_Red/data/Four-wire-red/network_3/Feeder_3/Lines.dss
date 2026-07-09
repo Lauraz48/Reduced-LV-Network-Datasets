@@ -1,0 +1,712 @@
+! Reduced enabled lines.
+
+New Line._virtual_line0_line1_line2_line3_line4_line5_line6_line7_line8_line9_line10_line11_line12_line13_line14_line15_line16_line17_line18_line19_line20_line21_line22_line23_line24_line25_line26_line27_line28_line29_line30_line31_line32_line33_line34_line35_line36_line37_line38 bus1=sourcebus.1.2.3.4 bus2=39.1.2.3.4 phases=4 linecode=LC5 length=28.713627 units=m
+! reduced_from=line0,line1,line2,line3,line4,line5,line6,line7,line8,line9,line10,line11,line12,line13,line14,line15,line16,line17,line18,line19,line20,line21,line22,line23,line24,line25,line26,line27,line28,line29,line30,line31,line32,line33,line34,line35,line36,line37,line38
+! eliminated_buses=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38
+
+New Line._virtual_line39_line41_line43_line46_line51_line55 bus1=56.1.2.3.4 bus2=39.1.2.3.4 phases=4 linecode=LC1 length=9.696173 units=m
+! reduced_from=line39,line41,line43,line46,line51,line55
+! eliminated_buses=40,42,44,47,52
+
+New Line._virtual_line40_line42 bus1=43.1.2.3.4 bus2=39.1.2.3.4 phases=4 linecode=LC5 length=10.7366 units=m
+! reduced_from=line40,line42
+! eliminated_buses=41
+
+New Line._virtual_line45_line50_line54 bus1=43.1.2.3.4 bus2=55.1.2.3.4 phases=4 linecode=LC5 length=14.91436 units=m
+! reduced_from=line45,line50,line54
+! eliminated_buses=46,51
+
+New Line._virtual_line47_line52 bus1=45.1.2.3.4 bus2=53.1.2.3.4 phases=4 linecode=LC1 length=8.6203 units=m
+! reduced_from=line47,line52
+! eliminated_buses=48
+
+New Line._virtual_line57_line62 bus1=63.1.2.3.4 bus2=55.1.2.3.4 phases=4 linecode=LC1 length=7.9367 units=m
+! reduced_from=line57,line62
+! eliminated_buses=58
+
+New Line._virtual_line58_line64_line69 bus1=55.1.2.3.4 bus2=70.1.2.3.4 phases=4 linecode=LC5 length=19.9961 units=m
+! reduced_from=line58,line64,line69
+! eliminated_buses=59,65
+
+New Line._virtual_line59_line65 bus1=56.1.2.3.4 bus2=66.1.2.3.4 phases=4 linecode=LC1 length=7.7781 units=m
+! reduced_from=line59,line65
+! eliminated_buses=60
+
+New Line._virtual_line66_line70_line74_line80_line85_line91_line98_line105_line111_line118_line125 bus1=63.1.2.3.4 bus2=126.1.2.3.4 phases=4 linecode=LC1 length=8.376931 units=m
+! reduced_from=line66,line70,line74,line80,line85,line91,line98,line105,line111,line118,line125
+! eliminated_buses=67,71,75,81,86,92,99,106,112,119
+
+New Line._virtual_line73_line79_line84 bus1=85.1.2.3.4 bus2=70.1.2.3.4 phases=4 linecode=LC5 length=14.61253 units=m
+! reduced_from=line73,line79,line84
+! eliminated_buses=74,80
+
+New Line._virtual_line76_line82_line87_line92_line99_line106_line112_line119_line126_line132_line137_line142_line148 bus1=149.1.2.3.4 bus2=73.1.2.3.4 phases=4 linecode=LC1 length=8.727625 units=m
+! reduced_from=line76,line82,line87,line92,line99,line106,line112,line119,line126,line132,line137,line142,line148
+! eliminated_buses=77,83,88,93,100,107,113,120,127,133,138,143
+
+New Line._virtual_line94_line101_line108_line114_line121_line128_line133_line138_line143_line149_line154_line160_line167 bus1=168.1.2.3.4 bus2=90.1.2.3.4 phases=4 linecode=LC1 length=8.565005 units=m
+! reduced_from=line94,line101,line108,line114,line121,line128,line133,line138,line143,line149,line154,line160,line167
+! eliminated_buses=95,102,109,115,122,129,134,139,144,150,155,161
+
+New Line._virtual_line97_line104_line110 bus1=91.1.2.3.4 bus2=111.1.2.3.4 phases=4 linecode=LC5 length=12.27525 units=m
+! reduced_from=line97,line104,line110
+! eliminated_buses=98,105
+
+New Line._virtual_line102_line109_line115_line122_line129_line134_line139_line144_line150_line155_line161_line168_line174 bus1=175.1.2.3.4 bus2=97.1.2.3.4 phases=4 linecode=LC1 length=8.615225 units=m
+! reduced_from=line102,line109,line115,line122,line129,line134,line139,line144,line150,line155,line161,line168,line174
+! eliminated_buses=103,110,116,123,130,135,140,145,151,156,162,169
+
+New Line._virtual_line116_line123_line130_line135_line140 bus1=111.1.2.3.4 bus2=141.1.2.3.4 phases=4 linecode=LC5 length=8.93275 units=m
+! reduced_from=line116,line123,line130,line135,line140
+! eliminated_buses=117,124,131,136
+
+New Line._virtual_line117_line124_line131_line136_line141_line147_line153_line159_line166_line173_line179_line184_line188 bus1=111.1.2.3.4 bus2=189.1.2.3.4 phases=4 linecode=LC3 length=41.048848 units=m
+! reduced_from=line117,line124,line131,line136,line141,line147,line153,line159,line166,line173,line179,line184,line188
+! eliminated_buses=118,125,132,137,142,148,154,160,167,174,180,185
+
+New Line._virtual_line145_line151_line156_line162_line169_line175_line180_line185_line189_line195_line202_line209_line218_line227_line239_line253 bus1=141.1.2.3.4 bus2=254.1.2.3.4 phases=4 linecode=LC1 length=12.504326 units=m
+! reduced_from=line145,line151,line156,line162,line169,line175,line180,line185,line189,line195,line202,line209,line218,line227,line239,line253
+! eliminated_buses=146,152,157,163,170,176,181,186,190,196,203,210,219,228,240
+
+New Line._virtual_line146_line152 bus1=141.1.2.3.4 bus2=153.1.2.3.4 phases=4 linecode=LC5 length=4.26276 units=m
+! reduced_from=line146,line152
+! eliminated_buses=147
+
+New Line._virtual_line157_line163 bus1=164.1.2.3.4 bus2=153.1.2.3.4 phases=4 linecode=LC1 length=11.2741 units=m
+! reduced_from=line157,line163
+! eliminated_buses=158
+
+New Line._virtual_line164_line170 bus1=159.1.2.3.4 bus2=171.1.2.3.4 phases=4 linecode=LC1 length=9.4293 units=m
+! reduced_from=line164,line170
+! eliminated_buses=165
+
+New Line._virtual_line165_line171 bus1=172.1.2.3.4 bus2=159.1.2.3.4 phases=4 linecode=LC5 length=5.3282 units=m
+! reduced_from=line165,line171
+! eliminated_buses=166
+
+New Line._virtual_line176_line181 bus1=182.1.2.3.4 bus2=172.1.2.3.4 phases=4 linecode=LC1 length=10.2603 units=m
+! reduced_from=line176,line181
+! eliminated_buses=177
+
+New Line._virtual_line177_line182_line186 bus1=187.1.2.3.4 bus2=172.1.2.3.4 phases=4 linecode=LC5 length=15.2638 units=m
+! reduced_from=line177,line182,line186
+! eliminated_buses=178,183
+
+New Line._virtual_line190_line196 bus1=197.1.2.3.4 bus2=187.1.2.3.4 phases=4 linecode=LC1 length=11.0042 units=m
+! reduced_from=line190,line196
+! eliminated_buses=191
+
+New Line._virtual_line191_line198_line205 bus1=206.1.2.3.4 bus2=187.1.2.3.4 phases=4 linecode=LC5 length=4.51758 units=m
+! reduced_from=line191,line198,line205
+! eliminated_buses=192,199
+
+New Line._virtual_line193_line200_line206_line214_line223_line233_line246 bus1=247.1.2.3.4 bus2=189.1.2.3.4 phases=4 linecode=LC1 length=11.05987 units=m
+! reduced_from=line193,line200,line206,line214,line223,line233,line246
+! eliminated_buses=194,201,207,215,224,234
+
+New Line._virtual_line194_line201 bus1=202.1.2.3.4 bus2=189.1.2.3.4 phases=4 linecode=LC3 length=12.6197 units=m
+! reduced_from=line194,line201
+! eliminated_buses=195
+
+New Line._virtual_line207_line215_line224_line234_line247_line260_line272_line284 bus1=285.1.2.3.4 bus2=202.1.2.3.4 phases=4 linecode=LC1 length=11.12312 units=m
+! reduced_from=line207,line215,line224,line234,line247,line260,line272,line284
+! eliminated_buses=208,216,225,235,248,261,273
+
+New Line._virtual_line212_line221_line230_line242_line256_line268_line279_line292_line304_line316_line329_line342 bus1=343.1.2.3.4 bus2=206.1.2.3.4 phases=4 linecode=LC1 length=10.95682 units=m
+! reduced_from=line212,line221,line230,line242,line256,line268,line279,line292,line304,line316,line329,line342
+! eliminated_buses=213,222,231,243,257,269,280,293,305,317,330
+
+New Line._virtual_line213_line222 bus1=206.1.2.3.4 bus2=223.1.2.3.4 phases=4 linecode=LC5 length=15.9823 units=m
+! reduced_from=line213,line222
+! eliminated_buses=214
+
+New Line._virtual_line216_line225_line235_line248_line261_line273_line285_line296 bus1=209.1.2.3.4 bus2=297.1.2.3.4 phases=4 linecode=LC1 length=11.089518 units=m
+! reduced_from=line216,line225,line235,line248,line261,line273,line285,line296
+! eliminated_buses=217,226,236,249,262,274,286
+
+New Line._virtual_line217_line226_line237 bus1=209.1.2.3.4 bus2=238.1.2.3.4 phases=4 linecode=LC3 length=12.86978 units=m
+! reduced_from=line217,line226,line237
+! eliminated_buses=218,227
+
+New Line._virtual_line231_line243_line257_line269_line280 bus1=223.1.2.3.4 bus2=281.1.2.3.4 phases=4 linecode=LC1 length=12.9951 units=m
+! reduced_from=line231,line243,line257,line269,line280
+! eliminated_buses=232,244,258,270
+
+New Line._virtual_line244_line258 bus1=233.1.2.3.4 bus2=259.1.2.3.4 phases=4 linecode=LC1 length=10.8629 units=m
+! reduced_from=line244,line258
+! eliminated_buses=245
+
+New Line._virtual_line245_line259 bus1=233.1.2.3.4 bus2=260.1.2.3.4 phases=4 linecode=LC5 length=13.9342 units=m
+! reduced_from=line245,line259
+! eliminated_buses=246
+
+New Line._virtual_line250_line263_line274_line286_line297_line308_line320_line333_line347_line361_line375_line388 bus1=238.1.2.3.4 bus2=389.1.2.3.4 phases=4 linecode=LC1 length=12.9848 units=m
+! reduced_from=line250,line263,line274,line286,line297,line308,line320,line333,line347,line361,line375,line388
+! eliminated_buses=251,264,275,287,298,309,321,334,348,362,376
+
+New Line._virtual_line265_line277_line290_line302_line314_line327 bus1=328.1.2.3.4 bus2=252.1.2.3.4 phases=4 linecode=LC6 length=14.72459 units=m
+! reduced_from=line265,line277,line290,line302,line314,line327
+! eliminated_buses=266,278,291,303,315
+
+New Line._virtual_line270_line281 bus1=260.1.2.3.4 bus2=282.1.2.3.4 phases=4 linecode=LC1 length=11.5455 units=m
+! reduced_from=line270,line281
+! eliminated_buses=271
+
+New Line._virtual_line275_line287_line298_line309_line321_line334_line348_line362 bus1=363.1.2.3.4 bus2=265.1.2.3.4 phases=4 linecode=LC1 length=11.54479 units=m
+! reduced_from=line275,line287,line298,line309,line321,line334,line348,line362
+! eliminated_buses=276,288,299,310,322,335,349
+
+New Line._virtual_line282_line293 bus1=272.1.2.3.4 bus2=294.1.2.3.4 phases=4 linecode=LC1 length=10.796 units=m
+! reduced_from=line282,line293
+! eliminated_buses=283
+
+New Line._virtual_line283_line295 bus1=296.1.2.3.4 bus2=272.1.2.3.4 phases=4 linecode=LC5 length=12.96501 units=m
+! reduced_from=line283,line295
+! eliminated_buses=284
+
+New Line._virtual_line288_line299_line310_line322_line335_line349_line363_line376 bus1=377.1.2.3.4 bus2=277.1.2.3.4 phases=4 linecode=LC1 length=11.88608 units=m
+! reduced_from=line288,line299,line310,line322,line335,line349,line363,line376
+! eliminated_buses=289,300,311,323,336,350,364
+
+New Line._virtual_line300_line311_line323_line336_line350_line364_line377_line389 bus1=390.1.2.3.4 bus2=290.1.2.3.4 phases=4 linecode=LC1 length=12.2635 units=m
+! reduced_from=line300,line311,line323,line336,line350,line364,line377,line389
+! eliminated_buses=301,312,324,337,351,365,378
+
+New Line._virtual_line306_line317 bus1=318.1.2.3.4 bus2=296.1.2.3.4 phases=4 linecode=LC1 length=11.1846 units=m
+! reduced_from=line306,line317
+! eliminated_buses=307
+
+New Line._virtual_line307_line319 bus1=296.1.2.3.4 bus2=320.1.2.3.4 phases=4 linecode=LC5 length=9.2955 units=m
+! reduced_from=line307,line319
+! eliminated_buses=308
+
+New Line._virtual_line312_line324_line337_line351_line365_line378_line390_line400 bus1=302.1.2.3.4 bus2=401.1.2.3.4 phases=4 linecode=LC1 length=13.21739 units=m
+! reduced_from=line312,line324,line337,line351,line365,line378,line390,line400
+! eliminated_buses=313,325,338,352,366,379,391
+
+New Line._virtual_line313_line326_line340 bus1=302.1.2.3.4 bus2=341.1.2.3.4 phases=4 linecode=LC3 length=13.3928 units=m
+! reduced_from=line313,line326,line340
+! eliminated_buses=314,327
+
+New Line._virtual_line331_line344 bus1=345.1.2.3.4 bus2=320.1.2.3.4 phases=4 linecode=LC1 length=11.1303 units=m
+! reduced_from=line331,line344
+! eliminated_buses=332
+
+New Line._virtual_line345_line358 bus1=333.1.2.3.4 bus2=359.1.2.3.4 phases=4 linecode=LC1 length=12.8786 units=m
+! reduced_from=line345,line358
+! eliminated_buses=346
+
+New Line._virtual_line354_line368_line381_line393_line403_line413_line423_line431_line439_line446_line453_line461_line468 bus1=341.1.2.3.4 bus2=469.1.2.3.4 phases=4 linecode=LC1 length=11.60329 units=m
+! reduced_from=line354,line368,line381,line393,line403,line413,line423,line431,line439,line446,line453,line461,line468
+! eliminated_buses=355,369,382,394,404,414,424,432,440,447,454,462
+
+New Line._virtual_line355_line369_line382_line394_line404_line414_line424_line432_line440 bus1=341.1.2.3.4 bus2=441.1.2.3.4 phases=4 linecode=LC3 length=45.88506 units=m
+! reduced_from=line355,line369,line382,line394,line404,line414,line424,line432,line440
+! eliminated_buses=356,370,383,395,405,415,425,433
+
+New Line._virtual_line359_line372 bus1=373.1.2.3.4 bus2=347.1.2.3.4 phases=4 linecode=LC1 length=11.0829 units=m
+! reduced_from=line359,line372
+! eliminated_buses=360
+
+New Line._virtual_line373_line385_line396_line406_line416_line426_line434 bus1=361.1.2.3.4 bus2=435.1.2.3.4 phases=4 linecode=LC1 length=13.33274 units=m
+! reduced_from=line373,line385,line396,line406,line416,line426,line434
+! eliminated_buses=374,386,397,407,417,427
+
+New Line._virtual_line386_line397_line407_line417_line427_line435_line442 bus1=375.1.2.3.4 bus2=443.1.2.3.4 phases=4 linecode=LC1 length=13.37625 units=m
+! reduced_from=line386,line397,line407,line417,line427,line435,line442
+! eliminated_buses=387,398,408,418,428,436
+
+New Line._virtual_line398_line408_line418_line428_line436_line443_line450 bus1=451.1.2.3.4 bus2=388.1.2.3.4 phases=4 linecode=LC1 length=13.55649 units=m
+! reduced_from=line398,line408,line418,line428,line436,line443,line450
+! eliminated_buses=399,409,419,429,437,444
+
+New Line._virtual_line409_line419 bus1=420.1.2.3.4 bus2=400.1.2.3.4 phases=4 linecode=LC1 length=12.0974 units=m
+! reduced_from=line409,line419
+! eliminated_buses=410
+
+New Line._virtual_line410_line421_line430_line438_line445_line452 bus1=453.1.2.3.4 bus2=400.1.2.3.4 phases=4 linecode=LC5 length=20.96232 units=m
+! reduced_from=line410,line421,line430,line438,line445,line452
+! eliminated_buses=411,422,431,439,446
+
+New Line._virtual_line447_line454 bus1=441.1.2.3.4 bus2=455.1.2.3.4 phases=4 linecode=LC1 length=11.0314 units=m
+! reduced_from=line447,line454
+! eliminated_buses=448
+
+New Line._virtual_line455_line462 bus1=463.1.2.3.4 bus2=449.1.2.3.4 phases=4 linecode=LC1 length=9.9855 units=m
+! reduced_from=line455,line462
+! eliminated_buses=456
+
+New Line._virtual_line459_line466_line473_line479_line483_line486_line489 bus1=490.1.2.3.4 bus2=453.1.2.3.4 phases=4 linecode=LC5 length=13.16058 units=m
+! reduced_from=line459,line466,line473,line479,line483,line486,line489
+! eliminated_buses=460,467,474,480,484,487
+
+New Line._virtual_line460_line467_line474_line480_line484_line487_line490_line494_line498_line503 bus1=453.1.2.3.4 bus2=504.1.2.3.4 phases=4 linecode=LC2 length=9.18979 units=m
+! reduced_from=line460,line467,line474,line480,line484,line487,line490,line494,line498,line503
+! eliminated_buses=461,468,475,481,485,488,491,495,499
+
+New Line._virtual_line463_line469 bus1=470.1.2.3.4 bus2=457.1.2.3.4 phases=4 linecode=LC1 length=12.2152 units=m
+! reduced_from=line463,line469
+! eliminated_buses=464
+
+New Line._virtual_line464_line471 bus1=472.1.2.3.4 bus2=457.1.2.3.4 phases=4 linecode=LC3 length=5.1402 units=m
+! reduced_from=line464,line471
+! eliminated_buses=465
+
+New Line._virtual_line476_line482 bus1=472.1.2.3.4 bus2=483.1.2.3.4 phases=4 linecode=LC1 length=11.5374 units=m
+! reduced_from=line476,line482
+! eliminated_buses=477
+
+New Line._virtual_line492_line496_line500_line505_line511_line518_line525 bus1=490.1.2.3.4 bus2=526.1.2.3.4 phases=4 linecode=LC1 length=17.26754 units=m
+! reduced_from=line492,line496,line500,line505,line511,line518,line525
+! eliminated_buses=493,497,501,506,512,519
+
+New Line._virtual_line493_line497_line502_line507_line513_line520_line527_line533_line538_line543_line549_line554 bus1=490.1.2.3.4 bus2=555.1.2.3.4 phases=4 linecode=LC5 length=33.36024 units=m
+! reduced_from=line493,line497,line502,line507,line513,line520,line527,line533,line538,line543,line549,line554
+! eliminated_buses=494,498,503,508,514,521,528,534,539,544,550
+
+New Line._virtual_line508_line514_line521_line528_line534_line539 bus1=504.1.2.3.4 bus2=540.1.2.3.4 phases=4 linecode=LC1 length=9.22053 units=m
+! reduced_from=line508,line514,line521,line528,line534,line539
+! eliminated_buses=509,515,522,529,535
+
+New Line._virtual_line515_line522_line529_line535_line540_line546_line551 bus1=552.1.2.3.4 bus2=510.1.2.3.4 phases=4 linecode=LC1 length=9.46246 units=m
+! reduced_from=line515,line522,line529,line535,line540,line546,line551
+! eliminated_buses=516,523,530,536,541,547
+
+New Line._virtual_line516_line523_line530_line536_line541_line547_line552_line557_line562_line567_line573_line579_line586 bus1=587.1.2.3.4 bus2=510.1.2.3.4 phases=4 linecode=LC2 length=30.29688 units=m
+! reduced_from=line516,line523,line530,line536,line541,line547,line552,line557,line562,line567,line573,line579,line586
+! eliminated_buses=517,524,531,537,542,548,553,558,563,568,574,580
+
+New Line._virtual_line544_line550 bus1=540.1.2.3.4 bus2=551.1.2.3.4 phases=4 linecode=LC1 length=10.2882 units=m
+! reduced_from=line544,line550
+! eliminated_buses=545
+
+New Line._virtual_line555_line561 bus1=552.1.2.3.4 bus2=562.1.2.3.4 phases=4 linecode=LC1 length=10.5094 units=m
+! reduced_from=line555,line561
+! eliminated_buses=556
+
+New Line._virtual_line559_line564_line569_line575_line581_line588_line594 bus1=595.1.2.3.4 bus2=555.1.2.3.4 phases=4 linecode=LC2 length=8.37442 units=m
+! reduced_from=line559,line564,line569,line575,line581,line588,line594
+! eliminated_buses=560,565,570,576,582,589
+
+New Line._virtual_line565_line570 bus1=571.1.2.3.4 bus2=561.1.2.3.4 phases=4 linecode=LC1 length=14.0878 units=m
+! reduced_from=line565,line570
+! eliminated_buses=566
+
+New Line._virtual_line566_line572 bus1=573.1.2.3.4 bus2=561.1.2.3.4 phases=4 linecode=LC5 length=7.427 units=m
+! reduced_from=line566,line572
+! eliminated_buses=567
+
+New Line._virtual_line577_line583 bus1=573.1.2.3.4 bus2=584.1.2.3.4 phases=4 linecode=LC1 length=13.137 units=m
+! reduced_from=line577,line583
+! eliminated_buses=578
+
+New Line._virtual_line584_line590 bus1=579.1.2.3.4 bus2=591.1.2.3.4 phases=4 linecode=LC1 length=11.3344 units=m
+! reduced_from=line584,line590
+! eliminated_buses=585
+
+New Line._virtual_line585_line591 bus1=592.1.2.3.4 bus2=579.1.2.3.4 phases=4 linecode=LC5 length=8.4728 units=m
+! reduced_from=line585,line591
+! eliminated_buses=586
+
+New Line._virtual_line596_line602 bus1=592.1.2.3.4 bus2=603.1.2.3.4 phases=4 linecode=LC1 length=10.7289 units=m
+! reduced_from=line596,line602
+! eliminated_buses=597
+
+New Line._virtual_line597_line604 bus1=592.1.2.3.4 bus2=605.1.2.3.4 phases=4 linecode=LC5 length=9.179 units=m
+! reduced_from=line597,line604
+! eliminated_buses=598
+
+New Line._virtual_line599_line606_line614_line623_line635_line649_line665_line679_line695_line712_line730_line748_line765_line781_line795_line810_line825_line839 bus1=595.1.2.3.4 bus2=840.1.2.3.4 phases=4 linecode=LC6 length=28.079145 units=m
+! reduced_from=line599,line606,line614,line623,line635,line649,line665,line679,line695,line712,line730,line748,line765,line781,line795,line810,line825,line839
+! eliminated_buses=600,607,615,624,636,650,666,680,696,713,731,749,766,782,796,811,826
+
+New Line._virtual_line607_line615_line624_line636_line650_line666_line680_line696_line713_line731 bus1=732.1.2.3.4 bus2=601.1.2.3.4 phases=4 linecode=LC6 length=13.92394 units=m
+! reduced_from=line607,line615,line624,line636,line650,line666,line680,line696,line713,line731
+! eliminated_buses=608,616,625,637,651,667,681,697,714
+
+New Line._virtual_line611_line620_line631 bus1=605.1.2.3.4 bus2=632.1.2.3.4 phases=4 linecode=LC5 length=29.4615 units=m
+! reduced_from=line611,line620,line631
+! eliminated_buses=612,621
+
+New Line._virtual_line612_line621 bus1=605.1.2.3.4 bus2=622.1.2.3.4 phases=4 linecode=LC3 length=31.8219 units=m
+! reduced_from=line612,line621
+! eliminated_buses=613
+
+New Line._virtual_line616_line625_line637_line651_line667_line681_line697_line714_line732_line749_line766_line782_line796 bus1=609.1.2.3.4 bus2=797.1.2.3.4 phases=4 linecode=LC6 length=12.04188 units=m
+! reduced_from=line616,line625,line637,line651,line667,line681,line697,line714,line732,line749,line766,line782,line796
+! eliminated_buses=617,626,638,652,668,682,698,715,733,750,767,783
+
+New Line._virtual_line626_line638_line652_line668_line682_line698 bus1=618.1.2.3.4 bus2=699.1.2.3.4 phases=4 linecode=LC6 length=12.97146 units=m
+! reduced_from=line626,line638,line652,line668,line682,line698
+! eliminated_buses=627,639,653,669,683
+
+New Line._virtual_line632_line646_line661_line676_line692_line709_line726_line744_line761_line777_line791_line805_line819 bus1=820.1.2.3.4 bus2=622.1.2.3.4 phases=4 linecode=LC1 length=13.36262 units=m
+! reduced_from=line632,line646,line661,line676,line692,line709,line726,line744,line761,line777,line791,line805,line819
+! eliminated_buses=633,647,662,677,693,710,727,745,762,778,792,806
+
+New Line._virtual_line639_line653_line669_line683_line699_line715_line733 bus1=628.1.2.3.4 bus2=734.1.2.3.4 phases=4 linecode=LC6 length=11.99772 units=m
+! reduced_from=line639,line653,line669,line683,line699,line715,line733
+! eliminated_buses=640,654,670,684,700,716
+
+New Line._virtual_line640_line655 bus1=628.1.2.3.4 bus2=656.1.2.3.4 phases=4 linecode=LC2 length=15.3492 units=m
+! reduced_from=line640,line655
+! eliminated_buses=641
+
+New Line._virtual_line644_line659 bus1=632.1.2.3.4 bus2=660.1.2.3.4 phases=4 linecode=LC1 length=14.9077 units=m
+! reduced_from=line644,line659
+! eliminated_buses=645
+
+New Line._virtual_line645_line660_line675 bus1=632.1.2.3.4 bus2=676.1.2.3.4 phases=4 linecode=LC5 length=14.62689 units=m
+! reduced_from=line645,line660,line675
+! eliminated_buses=646,661
+
+New Line._virtual_line647_line662 bus1=634.1.2.3.4 bus2=663.1.2.3.4 phases=4 linecode=LC1 length=10.8712 units=m
+! reduced_from=line647,line662
+! eliminated_buses=648
+
+New Line._virtual_line663_line677 bus1=678.1.2.3.4 bus2=649.1.2.3.4 phases=4 linecode=LC1 length=10.4334 units=m
+! reduced_from=line663,line677
+! eliminated_buses=664
+
+New Line._virtual_line664_line678 bus1=649.1.2.3.4 bus2=679.1.2.3.4 phases=4 linecode=LC3 length=5.6783 units=m
+! reduced_from=line664,line678
+! eliminated_buses=665
+
+New Line._virtual_line671_line685_line701_line717_line735_line751_line768_line783_line797_line811_line826_line840_line852 bus1=656.1.2.3.4 bus2=853.1.2.3.4 phases=4 linecode=LC6 length=12.50802 units=m
+! reduced_from=line671,line685,line701,line717,line735,line751,line768,line783,line797,line811,line826,line840,line852
+! eliminated_buses=672,686,702,718,736,752,769,784,798,812,827,841
+
+New Line._virtual_line686_line702_line718_line736_line752_line769_line784_line798_line812_line827_line841_line853 bus1=854.1.2.3.4 bus2=673.1.2.3.4 phases=4 linecode=LC6 length=13.48505 units=m
+! reduced_from=line686,line702,line718,line736,line752,line769,line784,line798,line812,line827,line841,line853
+! eliminated_buses=687,703,719,737,753,770,785,799,813,828,842
+
+New Line._virtual_line687_line703 bus1=673.1.2.3.4 bus2=704.1.2.3.4 phases=4 linecode=LC2 length=16.0151 units=m
+! reduced_from=line687,line703
+! eliminated_buses=688
+
+New Line._virtual_line690_line706 bus1=707.1.2.3.4 bus2=676.1.2.3.4 phases=4 linecode=LC1 length=13.355 units=m
+! reduced_from=line690,line706
+! eliminated_buses=691
+
+New Line._virtual_line693_line710_line727_line745_line762_line778_line792_line806_line820_line834 bus1=679.1.2.3.4 bus2=835.1.2.3.4 phases=4 linecode=LC1 length=9.42715 units=m
+! reduced_from=line693,line710,line727,line745,line762,line778,line792,line806,line820,line834
+! eliminated_buses=694,711,728,746,763,779,793,807,821
+
+New Line._virtual_line694_line711_line728_line746_line763_line779_line793 bus1=794.1.2.3.4 bus2=679.1.2.3.4 phases=4 linecode=LC3 length=4.95718 units=m
+! reduced_from=line694,line711,line728,line746,line763,line779,line793
+! eliminated_buses=695,712,729,747,764,780
+
+New Line._virtual_line707_line723 bus1=692.1.2.3.4 bus2=724.1.2.3.4 phases=4 linecode=LC1 length=10.7695 units=m
+! reduced_from=line707,line723
+! eliminated_buses=708
+
+New Line._virtual_line708_line725 bus1=726.1.2.3.4 bus2=692.1.2.3.4 phases=4 linecode=LC5 length=9.2643 units=m
+! reduced_from=line708,line725
+! eliminated_buses=709
+
+New Line._virtual_line719_line737_line753_line770_line785_line799_line813_line828 bus1=829.1.2.3.4 bus2=704.1.2.3.4 phases=4 linecode=LC6 length=12.34226 units=m
+! reduced_from=line719,line737,line753,line770,line785,line799,line813,line828
+! eliminated_buses=720,738,754,771,786,800,814
+
+New Line._virtual_line738_line754_line771_line786_line800_line814_line829_line842_line854_line863_line872_line881_line890_line899_line908_line918_line929_line939_line947_line955_line962 bus1=721.1.2.3.4 bus2=963.1.2.3.4 phases=4 linecode=LC6 length=14.984401 units=m
+! reduced_from=line738,line754,line771,line786,line800,line814,line829,line842,line854,line863,line872,line881,line890,line899,line908,line918,line929,line939,line947,line955,line962
+! eliminated_buses=739,755,772,787,801,815,830,843,855,864,873,882,891,900,909,919,930,940,948,956
+
+New Line._virtual_line739_line756 bus1=757.1.2.3.4 bus2=721.1.2.3.4 phases=4 linecode=LC2 length=4.8815 units=m
+! reduced_from=line739,line756
+! eliminated_buses=740
+
+New Line._virtual_line742_line759 bus1=726.1.2.3.4 bus2=760.1.2.3.4 phases=4 linecode=LC1 length=11.845 units=m
+! reduced_from=line742,line759
+! eliminated_buses=743
+
+New Line._virtual_line743_line760_line776_line790_line804_line818_line833_line846_line858_line867_line876_line885_line893_line902_line911_line921_line932_line941_line949_line957_line963 bus1=964.1.2.3.4 bus2=726.1.2.3.4 phases=4 linecode=LC5 length=23.45159 units=m
+! reduced_from=line743,line760,line776,line790,line804,line818,line833,line846,line858,line867,line876,line885,line893,line902,line911,line921,line932,line941,line949,line957,line963
+! eliminated_buses=744,761,777,791,805,819,834,847,859,868,877,886,894,903,912,922,933,942,950,958
+
+New Line._virtual_line773_line787_line801_line815_line830_line843_line855_line864_line873_line882_line891_line900_line909_line919_line930_line940_line948_line956 bus1=957.1.2.3.4 bus2=757.1.2.3.4 phases=4 linecode=LC6 length=35.39701 units=m
+! reduced_from=line773,line787,line801,line815,line830,line843,line855,line864,line873,line882,line891,line900,line909,line919,line930,line940,line948,line956
+! eliminated_buses=774,788,802,816,831,844,856,865,874,883,892,901,910,920,931,941,949
+
+New Line._virtual_line808_line823 bus1=794.1.2.3.4 bus2=824.1.2.3.4 phases=4 linecode=LC3 length=14.4936 units=m
+! reduced_from=line808,line823
+! eliminated_buses=809
+
+New Line._virtual_line821_line835_line847_line859_line868_line877_line886_line894_line903_line912_line922_line933_line942_line950 bus1=808.1.2.3.4 bus2=951.1.2.3.4 phases=4 linecode=LC1 length=6.934021 units=m
+! reduced_from=line821,line835,line847,line859,line868,line877,line886,line894,line903,line912,line922,line933,line942,line950
+! eliminated_buses=822,836,848,860,869,878,887,895,904,913,923,934,943
+
+New Line._virtual_line837_line850_line861_line870_line879_line888 bus1=824.1.2.3.4 bus2=889.1.2.3.4 phases=4 linecode=LC3 length=6.27254 units=m
+! reduced_from=line837,line850,line861,line870,line879,line888
+! eliminated_buses=838,851,862,871,880
+
+New Line._virtual_line848_line860_line869_line878_line887_line895_line904_line913_line923_line934_line943_line951_line958 bus1=959.1.2.3.4 bus2=837.1.2.3.4 phases=4 linecode=LC1 length=8.336134 units=m
+! reduced_from=line848,line860,line869,line878,line887,line895,line904,line913,line923,line934,line943,line951,line958
+! eliminated_buses=849,861,870,879,888,896,905,914,924,935,944,952
+
+New Line._virtual_line896_line905_line914_line924_line935_line944_line952_line959_line964_line969_line974_line980 bus1=981.1.2.3.4 bus2=889.1.2.3.4 phases=4 linecode=LC1 length=11.20715 units=m
+! reduced_from=line896,line905,line914,line924,line935,line944,line952,line959,line964,line969,line974,line980
+! eliminated_buses=897,906,915,925,936,945,953,960,965,970,975
+
+New Line._virtual_line897_line906 bus1=907.1.2.3.4 bus2=889.1.2.3.4 phases=4 linecode=LC3 length=5.7127 units=m
+! reduced_from=line897,line906
+! eliminated_buses=898
+
+New Line._virtual_line915_line925 bus1=926.1.2.3.4 bus2=907.1.2.3.4 phases=4 linecode=LC1 length=10.7204 units=m
+! reduced_from=line915,line925
+! eliminated_buses=916
+
+New Line._virtual_line926_line936 bus1=917.1.2.3.4 bus2=937.1.2.3.4 phases=4 linecode=LC1 length=9.63 units=m
+! reduced_from=line926,line936
+! eliminated_buses=927
+
+New Line._virtual_line927_line937 bus1=938.1.2.3.4 bus2=917.1.2.3.4 phases=4 linecode=LC3 length=2.19661 units=m
+! reduced_from=line927,line937
+! eliminated_buses=928
+
+New Line._virtual_line945_line953_line960_line965_line970_line975_line981_line986_line991 bus1=992.1.2.3.4 bus2=938.1.2.3.4 phases=4 linecode=LC1 length=14.27705 units=m
+! reduced_from=line945,line953,line960,line965,line970,line975,line981,line986,line991
+! eliminated_buses=946,954,961,966,971,976,982,987
+
+New Line._virtual_line967_line972_line977_line982_line987_line992_line996_line1001_line1006_line1011_line1017_line1023_line1030 bus1=964.1.2.3.4 bus2=1031.1.2.3.4 phases=4 linecode=LC1 length=7.48359 units=m
+! reduced_from=line967,line972,line977,line982,line987,line992,line996,line1001,line1006,line1011,line1017,line1023,line1030
+! eliminated_buses=968,973,978,983,988,993,997,1002,1007,1012,1018,1024
+
+New Line._virtual_line968_line973 bus1=964.1.2.3.4 bus2=974.1.2.3.4 phases=4 linecode=LC5 length=14.1796 units=m
+! reduced_from=line968,line973
+! eliminated_buses=969
+
+New Line._virtual_line978_line983_line988_line993_line997_line1002_line1007 bus1=1008.1.2.3.4 bus2=974.1.2.3.4 phases=4 linecode=LC1 length=6.74978 units=m
+! reduced_from=line978,line983,line988,line993,line997,line1002,line1007
+! eliminated_buses=979,984,989,994,998,1003
+
+New Line._virtual_line979_line985_line990_line995 bus1=996.1.2.3.4 bus2=974.1.2.3.4 phases=4 linecode=LC5 length=16.4288 units=m
+! reduced_from=line979,line985,line990,line995
+! eliminated_buses=980,986,991
+
+New Line._virtual_line999_line1004 bus1=996.1.2.3.4 bus2=1005.1.2.3.4 phases=4 linecode=LC5 length=9.1249 units=m
+! reduced_from=line999,line1004
+! eliminated_buses=1000
+
+New Line._virtual_line1000_line1005_line1010_line1016_line1022 bus1=996.1.2.3.4 bus2=1023.1.2.3.4 phases=4 linecode=LC1 length=6.446575 units=m
+! reduced_from=line1000,line1005,line1010,line1016,line1022
+! eliminated_buses=1001,1006,1011,1017
+
+New Line._virtual_line1009_line1015 bus1=1005.1.2.3.4 bus2=1016.1.2.3.4 phases=4 linecode=LC4 length=4.9603 units=m
+! reduced_from=line1009,line1015
+! eliminated_buses=1010
+
+New Line._virtual_line1012_line1018_line1024_line1031_line1037_line1044_line1051_line1058_line1067_line1076_line1085_line1096_line1105_line1116_line1124_line1132_line1142_line1151 bus1=1152.1.2.3.4 bus2=1008.1.2.3.4 phases=4 linecode=LC1 length=11.339604 units=m
+! reduced_from=line1012,line1018,line1024,line1031,line1037,line1044,line1051,line1058,line1067,line1076,line1085,line1096,line1105,line1116,line1124,line1132,line1142,line1151
+! eliminated_buses=1013,1019,1025,1032,1038,1045,1052,1059,1068,1077,1086,1097,1106,1117,1125,1133,1143
+
+New Line._virtual_line1020_line1026_line1032 bus1=1016.1.2.3.4 bus2=1033.1.2.3.4 phases=4 linecode=LC4 length=15.2502 units=m
+! reduced_from=line1020,line1026,line1032
+! eliminated_buses=1021,1027
+
+New Line._virtual_line1021_line1027_line1033_line1040_line1047_line1054 bus1=1016.1.2.3.4 bus2=1055.1.2.3.4 phases=4 linecode=LC1 length=7.43781 units=m
+! reduced_from=line1021,line1027,line1033,line1040,line1047,line1054
+! eliminated_buses=1022,1028,1034,1041,1048
+
+New Line._virtual_line1028_line1034_line1041_line1048_line1055_line1064_line1073_line1082_line1093_line1103_line1113_line1122_line1131_line1141_line1150_line1159_line1167_line1176_line1185_line1195 bus1=1023.1.2.3.4 bus2=1196.1.2.3.4 phases=4 linecode=LC1 length=10.931403 units=m
+! reduced_from=line1028,line1034,line1041,line1048,line1055,line1064,line1073,line1082,line1093,line1103,line1113,line1122,line1131,line1141,line1150,line1159,line1167,line1176,line1185,line1195
+! eliminated_buses=1029,1035,1042,1049,1056,1065,1074,1083,1094,1104,1114,1123,1132,1142,1151,1160,1168,1177,1186
+
+New Line._virtual_line1035_line1042_line1049_line1056_line1065_line1074_line1083_line1094_line1104 bus1=1105.1.2.3.4 bus2=1031.1.2.3.4 phases=4 linecode=LC1 length=14.3987 units=m
+! reduced_from=line1035,line1042,line1049,line1056,line1065,line1074,line1083,line1094,line1104
+! eliminated_buses=1036,1043,1050,1057,1066,1075,1084,1095
+
+New Line._virtual_line1036_line1043_line1050_line1057_line1066_line1075_line1084_line1095 bus1=1096.1.2.3.4 bus2=1031.1.2.3.4 phases=4 linecode=LC1 length=4.52465 units=m
+! reduced_from=line1036,line1043,line1050,line1057,line1066,line1075,line1084,line1095
+! eliminated_buses=1037,1044,1051,1058,1067,1076,1085
+
+New Line._virtual_line1038_line1045_line1052 bus1=1053.1.2.3.4 bus2=1033.1.2.3.4 phases=4 linecode=LC4 length=15.4065 units=m
+! reduced_from=line1038,line1045,line1052
+! eliminated_buses=1039,1046
+
+New Line._virtual_line1039_line1046_line1053_line1061_line1071_line1080 bus1=1081.1.2.3.4 bus2=1033.1.2.3.4 phases=4 linecode=LC1 length=6.24525 units=m
+! reduced_from=line1039,line1046,line1053,line1061,line1071,line1080
+! eliminated_buses=1040,1047,1054,1062,1072
+
+New Line._virtual_line1059_line1068_line1077_line1086_line1097 bus1=1053.1.2.3.4 bus2=1098.1.2.3.4 phases=4 linecode=LC1 length=7.114634 units=m
+! reduced_from=line1059,line1068,line1077,line1086,line1097
+! eliminated_buses=1060,1069,1078,1087
+
+New Line._virtual_line1060_line1070_line1079 bus1=1053.1.2.3.4 bus2=1080.1.2.3.4 phases=4 linecode=LC4 length=11.8595 units=m
+! reduced_from=line1060,line1070,line1079
+! eliminated_buses=1061,1071
+
+New Line._virtual_line1062_line1072_line1081_line1092_line1102_line1112_line1121_line1130_line1140_line1149_line1158_line1166_line1175_line1184_line1194_line1203_line1211_line1219 bus1=1220.1.2.3.4 bus2=1055.1.2.3.4 phases=4 linecode=LC1 length=7.149377 units=m
+! reduced_from=line1062,line1072,line1081,line1092,line1102,line1112,line1121,line1130,line1140,line1149,line1158,line1166,line1175,line1184,line1194,line1203,line1211,line1219
+! eliminated_buses=1063,1073,1082,1093,1103,1113,1122,1131,1141,1150,1159,1167,1176,1185,1195,1204,1212
+
+New Line._virtual_line1088_line1099_line1109_line1118_line1126 bus1=1080.1.2.3.4 bus2=1127.1.2.3.4 phases=4 linecode=LC1 length=7.82804 units=m
+! reduced_from=line1088,line1099,line1109,line1118,line1126
+! eliminated_buses=1089,1100,1110,1119
+
+New Line._virtual_line1089_line1100_line1110_line1119_line1128 bus1=1080.1.2.3.4 bus2=1129.1.2.3.4 phases=4 linecode=LC4 length=16.9449 units=m
+! reduced_from=line1089,line1100,line1110,line1119,line1128
+! eliminated_buses=1090,1101,1111,1120
+
+New Line._virtual_line1090_line1101_line1111_line1120_line1129_line1139_line1148_line1157_line1165_line1174_line1183_line1193_line1202_line1210_line1218_line1226_line1231_line1235_line1239_line1243 bus1=1244.1.2.3.4 bus2=1081.1.2.3.4 phases=4 linecode=LC1 length=11.123236 units=m
+! reduced_from=line1090,line1101,line1111,line1120,line1129,line1139,line1148,line1157,line1165,line1174,line1183,line1193,line1202,line1210,line1218,line1226,line1231,line1235,line1239,line1243
+! eliminated_buses=1091,1102,1112,1121,1130,1140,1149,1158,1166,1175,1184,1194,1203,1211,1219,1227,1232,1236,1240
+
+New Line._virtual_line1106_line1117_line1125_line1133_line1143_line1152_line1160_line1168_line1177_line1186_line1196_line1204_line1212_line1220_line1227_line1232_line1236_line1240 bus1=1098.1.2.3.4 bus2=1241.1.2.3.4 phases=4 linecode=LC1 length=9.216031 units=m
+! reduced_from=line1106,line1117,line1125,line1133,line1143,line1152,line1160,line1168,line1177,line1186,line1196,line1204,line1212,line1220,line1227,line1232,line1236,line1240
+! eliminated_buses=1107,1118,1126,1134,1144,1153,1161,1169,1178,1187,1197,1205,1213,1221,1228,1233,1237
+
+New Line._virtual_line1114_line1123 bus1=1105.1.2.3.4 bus2=1124.1.2.3.4 phases=4 linecode=LC1 length=6.3761 units=m
+! reduced_from=line1114,line1123
+! eliminated_buses=1115
+
+New Line._virtual_line1134_line1144_line1153_line1161_line1169_line1178_line1187_line1197_line1205_line1213_line1221 bus1=1222.1.2.3.4 bus2=1127.1.2.3.4 phases=4 linecode=LC1 length=9.4225 units=m
+! reduced_from=line1134,line1144,line1153,line1161,line1169,line1178,line1187,line1197,line1205,line1213,line1221
+! eliminated_buses=1135,1145,1154,1162,1170,1179,1188,1198,1206,1214
+
+New Line._virtual_line1137_line1146_line1155_line1163_line1171_line1180 bus1=1181.1.2.3.4 bus2=1129.1.2.3.4 phases=4 linecode=LC1 length=7.48549 units=m
+! reduced_from=line1137,line1146,line1155,line1163,line1171,line1180
+! eliminated_buses=1138,1147,1156,1164,1172
+
+New Line._virtual_line1147_line1156_line1164 bus1=1139.1.2.3.4 bus2=1165.1.2.3.4 phases=4 linecode=LC5 length=8.0461 units=m
+! reduced_from=line1147,line1156,line1164
+! eliminated_buses=1148,1157
+
+New Line._virtual_line1172_line1181_line1191_line1199_line1207_line1215 bus1=1216.1.2.3.4 bus2=1165.1.2.3.4 phases=4 linecode=LC1 length=13.25506 units=m
+! reduced_from=line1172,line1181,line1191,line1199,line1207,line1215
+! eliminated_buses=1173,1182,1192,1200,1208
+
+New Line._virtual_line1173_line1182_line1192 bus1=1165.1.2.3.4 bus2=1193.1.2.3.4 phases=4 linecode=LC5 length=12.6276 units=m
+! reduced_from=line1173,line1182,line1192
+! eliminated_buses=1174,1183
+
+New Line._virtual_line1189_line1198_line1206_line1214_line1222_line1228_line1233_line1237_line1241_line1244_line1246_line1248_line1250 bus1=1251.1.2.3.4 bus2=1181.1.2.3.4 phases=4 linecode=LC1 length=8.95773 units=m
+! reduced_from=line1189,line1198,line1206,line1214,line1222,line1228,line1233,line1237,line1241,line1244,line1246,line1248,line1250
+! eliminated_buses=1190,1199,1207,1215,1223,1229,1234,1238,1242,1245,1247,1249
+
+New Line._virtual_line1200_line1208 bus1=1193.1.2.3.4 bus2=1209.1.2.3.4 phases=4 linecode=LC1 length=20.1097 units=m
+! reduced_from=line1200,line1208
+! eliminated_buses=1201
+
+New Line._virtual_line1201_line1209_line1217 bus1=1218.1.2.3.4 bus2=1193.1.2.3.4 phases=4 linecode=LC5 length=6.42944 units=m
+! reduced_from=line1201,line1209,line1217
+! eliminated_buses=1202,1210
+
+New Line._virtual_line1224_line1230 bus1=1231.1.2.3.4 bus2=1218.1.2.3.4 phases=4 linecode=LC1 length=19.9096 units=m
+! reduced_from=line1224,line1230
+! eliminated_buses=1225
+
+New Line.LINE44 bus1=43.1.2.3.4 bus2=45.1.2.3.4 phases=4 linecode=LC1 length=7.0598 units=m
+
+New Line.LINE48 bus1=45.1.2.3.4 bus2=49.1.2.3.4 phases=4 linecode=LC1 length=4.7833 units=m
+
+New Line.LINE60 bus1=56.1.2.3.4 bus2=61.1.2.3.4 phases=4 linecode=LC1 length=4.1789 units=m
+
+New Line.LINE67 bus1=63.1.2.3.4 bus2=68.1.2.3.4 phases=4 linecode=LC1 length=3.9049 units=m
+
+New Line.LINE72 bus1=70.1.2.3.4 bus2=73.1.2.3.4 phases=4 linecode=LC1 length=7.8934 units=m
+
+New Line.LINE77 bus1=73.1.2.3.4 bus2=78.1.2.3.4 phases=4 linecode=LC1 length=4.2355 units=m
+
+New Line.LINE89 bus1=85.1.2.3.4 bus2=90.1.2.3.4 phases=4 linecode=LC1 length=9.1643 units=m
+
+New Line.LINE90 bus1=85.1.2.3.4 bus2=91.1.2.3.4 phases=4 linecode=LC5 length=14.8121 units=m
+
+New Line.LINE95 bus1=90.1.2.3.4 bus2=96.1.2.3.4 phases=4 linecode=LC1 length=4.1866 units=m
+
+New Line.LINE96 bus1=91.1.2.3.4 bus2=97.1.2.3.4 phases=4 linecode=LC1 length=9.2848 units=m
+
+New Line.LINE103 bus1=97.1.2.3.4 bus2=104.1.2.3.4 phases=4 linecode=LC1 length=2.9049 units=m
+
+New Line.LINE158 bus1=153.1.2.3.4 bus2=159.1.2.3.4 phases=4 linecode=LC5 length=15.4218 units=m
+
+New Line.LINE208 bus1=202.1.2.3.4 bus2=209.1.2.3.4 phases=4 linecode=LC3 length=8.5822 units=m
+
+New Line.LINE232 bus1=223.1.2.3.4 bus2=233.1.2.3.4 phases=4 linecode=LC5 length=6.7422 units=m
+
+New Line.LINE251 bus1=238.1.2.3.4 bus2=252.1.2.3.4 phases=4 linecode=LC3 length=6.5378 units=m
+
+New Line.LINE264 bus1=252.1.2.3.4 bus2=265.1.2.3.4 phases=4 linecode=LC3 length=14.6024 units=m
+
+New Line.LINE271 bus1=260.1.2.3.4 bus2=272.1.2.3.4 phases=4 linecode=LC5 length=7.7748 units=m
+
+New Line.LINE276 bus1=265.1.2.3.4 bus2=277.1.2.3.4 phases=4 linecode=LC3 length=5.6184 units=m
+
+New Line.LINE289 bus1=277.1.2.3.4 bus2=290.1.2.3.4 phases=4 linecode=LC3 length=13.9872 units=m
+
+New Line.LINE301 bus1=290.1.2.3.4 bus2=302.1.2.3.4 phases=4 linecode=LC3 length=6.0743 units=m
+
+New Line.LINE332 bus1=320.1.2.3.4 bus2=333.1.2.3.4 phases=4 linecode=LC5 length=12.2804 units=m
+
+New Line.LINE346 bus1=333.1.2.3.4 bus2=347.1.2.3.4 phases=4 linecode=LC5 length=8.131 units=m
+
+New Line.LINE360 bus1=347.1.2.3.4 bus2=361.1.2.3.4 phases=4 linecode=LC5 length=11.5098 units=m
+
+New Line.LINE374 bus1=361.1.2.3.4 bus2=375.1.2.3.4 phases=4 linecode=LC5 length=15.2396 units=m
+
+New Line.LINE387 bus1=375.1.2.3.4 bus2=388.1.2.3.4 phases=4 linecode=LC5 length=2.8793 units=m
+
+New Line.LINE399 bus1=388.1.2.3.4 bus2=400.1.2.3.4 phases=4 linecode=LC5 length=9.9317 units=m
+
+New Line.LINE448 bus1=441.1.2.3.4 bus2=449.1.2.3.4 phases=4 linecode=LC3 length=5.9698 units=m
+
+New Line.LINE456 bus1=449.1.2.3.4 bus2=457.1.2.3.4 phases=4 linecode=LC3 length=6.0766 units=m
+
+New Line.LINE509 bus1=504.1.2.3.4 bus2=510.1.2.3.4 phases=4 linecode=LC2 length=17.6856 units=m
+
+New Line.LINE545 bus1=540.1.2.3.4 bus2=546.1.2.3.4 phases=4 linecode=LC1 length=3.6163 units=m
+
+New Line.LINE556 bus1=552.1.2.3.4 bus2=557.1.2.3.4 phases=4 linecode=LC1 length=2.6024 units=m
+
+New Line.LINE560 bus1=555.1.2.3.4 bus2=561.1.2.3.4 phases=4 linecode=LC5 length=6.1191 units=m
+
+New Line.LINE578 bus1=573.1.2.3.4 bus2=579.1.2.3.4 phases=4 linecode=LC5 length=8.9338 units=m
+
+New Line.LINE592 bus1=587.1.2.3.4 bus2=593.1.2.3.4 phases=4 linecode=LC1 length=3.2817 units=m
+
+New Line.LINE600 bus1=595.1.2.3.4 bus2=601.1.2.3.4 phases=4 linecode=LC2 length=2.2614 units=m
+
+New Line.LINE608 bus1=601.1.2.3.4 bus2=609.1.2.3.4 phases=4 linecode=LC2 length=14.6223 units=m
+
+New Line.LINE617 bus1=609.1.2.3.4 bus2=618.1.2.3.4 phases=4 linecode=LC2 length=12.4422 units=m
+
+New Line.LINE627 bus1=618.1.2.3.4 bus2=628.1.2.3.4 phases=4 linecode=LC2 length=1.2276 units=m
+
+New Line.LINE633 bus1=622.1.2.3.4 bus2=634.1.2.3.4 phases=4 linecode=LC3 length=8.9027 units=m
+
+New Line.LINE648 bus1=634.1.2.3.4 bus2=649.1.2.3.4 phases=4 linecode=LC3 length=8.112 units=m
+
+New Line.LINE672 bus1=656.1.2.3.4 bus2=673.1.2.3.4 phases=4 linecode=LC2 length=2.0647 units=m
+
+New Line.LINE691 bus1=676.1.2.3.4 bus2=692.1.2.3.4 phases=4 linecode=LC5 length=6.2496 units=m
+
+New Line.LINE720 bus1=704.1.2.3.4 bus2=721.1.2.3.4 phases=4 linecode=LC2 length=6.7537 units=m
+
+New Line.LINE807 bus1=794.1.2.3.4 bus2=808.1.2.3.4 phases=4 linecode=LC1 length=7.5585 units=m
+
+New Line.LINE822 bus1=808.1.2.3.4 bus2=823.1.2.3.4 phases=4 linecode=LC1 length=4.5807 units=m
+
+New Line.LINE836 bus1=824.1.2.3.4 bus2=837.1.2.3.4 phases=4 linecode=LC1 length=7.7392 units=m
+
+New Line.LINE849 bus1=837.1.2.3.4 bus2=850.1.2.3.4 phases=4 linecode=LC1 length=5.1099 units=m
+
+New Line.LINE916 bus1=907.1.2.3.4 bus2=917.1.2.3.4 phases=4 linecode=LC3 length=7.7531 units=m
+
+New Line.LINE1013 bus1=1008.1.2.3.4 bus2=1014.1.2.3.4 phases=4 linecode=LC1 length=5.1282 units=m
+
+New Line.LINE1029 bus1=1023.1.2.3.4 bus2=1030.1.2.3.4 phases=4 linecode=LC1 length=3.5518 units=m
+
+New Line.LINE1063 bus1=1055.1.2.3.4 bus2=1064.1.2.3.4 phases=4 linecode=LC1 length=2.9269 units=m
+
+New Line.LINE1091 bus1=1081.1.2.3.4 bus2=1092.1.2.3.4 phases=4 linecode=LC1 length=5.4026 units=m
+
+New Line.LINE1107 bus1=1098.1.2.3.4 bus2=1108.1.2.3.4 phases=4 linecode=LC1 length=4.441 units=m
+
+New Line.LINE1115 bus1=1105.1.2.3.4 bus2=1116.1.2.3.4 phases=4 linecode=LC1 length=5.0754 units=m
+
+New Line.LINE1135 bus1=1127.1.2.3.4 bus2=1136.1.2.3.4 phases=4 linecode=LC1 length=4.3336 units=m
+
+New Line.LINE1138 bus1=1129.1.2.3.4 bus2=1139.1.2.3.4 phases=4 linecode=LC4 length=2.7205 units=m
+
+New Line.LINE1190 bus1=1181.1.2.3.4 bus2=1191.1.2.3.4 phases=4 linecode=LC1 length=3.3049 units=m
+

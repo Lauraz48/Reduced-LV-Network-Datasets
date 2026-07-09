@@ -1,0 +1,50 @@
+! Reduced enabled lines.
+
+New Line._virtual_line0_line1_line2_line3_line4_line5_line6_line7_line8_line9_line10_line11_line12_line13_line14_line15_line16_line17_line18_line19_line20_line21_line22_line23_line24_line25_line26_line27_line28_line29_line30_line31_line32_line33_line34_line35_line36_line37_line38_line39_line40_line41_line42_line43_line44_line45_line46_line47_line48_line49_line50_line51_line52_line53_line54_line55_line56_line57_line58_line59_line60_line61_line62_line63_line64_line65_line66_line67_line68_line69_line70_line71_line72_line73_line74_line75_line76_line77_line78_line79_line80_line81_line82_line83_line84_line85_line86_line87_line88_line89_line90_line91_line92_line93_line94_line95_line96_line97_line98_line99_line100_line101_line102_line103_line104_line105_line106_line107_line108_line109_line110_line111_line112_line113_line114_line115_line116 bus1=sourcebus.1.2.3 bus2=117.1.2.3 phases=3 linecode=LC5 length=42.694703 units=m
+! reduced_from=line0,line1,line2,line3,line4,line5,line6,line7,line8,line9,line10,line11,line12,line13,line14,line15,line16,line17,line18,line19,line20,line21,line22,line23,line24,line25,line26,line27,line28,line29,line30,line31,line32,line33,line34,line35,line36,line37,line38,line39,line40,line41,line42,line43,line44,line45,line46,line47,line48,line49,line50,line51,line52,line53,line54,line55,line56,line57,line58,line59,line60,line61,line62,line63,line64,line65,line66,line67,line68,line69,line70,line71,line72,line73,line74,line75,line76,line77,line78,line79,line80,line81,line82,line83,line84,line85,line86,line87,line88,line89,line90,line91,line92,line93,line94,line95,line96,line97,line98,line99,line100,line101,line102,line103,line104,line105,line106,line107,line108,line109,line110,line111,line112,line113,line114,line115,line116
+! eliminated_buses=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116
+
+New Line.LINE117 bus1=117.1.2.3 bus2=118.1.2.3 phases=3 linecode=LC8 length=2.3614 units=m
+
+New Line.LINE118 bus1=118.1.2.3 bus2=119.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE119 bus1=118.1.2.3 bus2=120.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE120 bus1=118.1.2.3 bus2=121.1.2.3 phases=3 linecode=LC1 length=4.6208 units=m
+
+New Line.LINE121 bus1=118.1.2.3 bus2=122.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE122 bus1=118.1.2.3 bus2=123.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE123 bus1=118.1.2.3 bus2=124.1.2.3 phases=3 linecode=LC1 length=4.6208 units=m
+
+New Line.LINE124 bus1=118.1.2.3 bus2=125.1.2.3 phases=3 linecode=LC1 length=4.6208 units=m
+
+New Line.LINE125 bus1=118.1.2.3 bus2=126.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE126 bus1=118.1.2.3 bus2=127.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE127 bus1=118.1.2.3 bus2=128.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE128 bus1=118.1.2.3 bus2=129.1.2.3 phases=3 linecode=LC1 length=4.6208 units=m
+
+New Line.LINE129 bus1=118.1.2.3 bus2=130.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE130 bus1=118.1.2.3 bus2=131.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE131 bus1=118.1.2.3 bus2=132.1.2.3 phases=3 linecode=LC1 length=4.6208 units=m
+
+New Line.LINE132 bus1=118.1.2.3 bus2=133.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE133 bus1=118.1.2.3 bus2=134.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE134 bus1=118.1.2.3 bus2=135.1.2.3 phases=3 linecode=LC1 length=4.6208 units=m
+
+New Line.LINE135 bus1=118.1.2.3 bus2=136.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE136 bus1=118.1.2.3 bus2=137.1.2.3 phases=3 linecode=LC1 length=4.959 units=m
+
+New Line.LINE137 bus1=118.1.2.3 bus2=138.1.2.3 phases=3 linecode=LC1 length=14.0866 units=m
+
+New Line.LINE138 bus1=118.1.2.3 bus2=139.1.2.3 phases=3 linecode=LC1 length=10.3011 units=m
+

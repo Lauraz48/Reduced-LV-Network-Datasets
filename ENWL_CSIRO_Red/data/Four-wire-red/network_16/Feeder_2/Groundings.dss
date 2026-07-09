@@ -1,0 +1,4 @@
+! Neutral grounding reactors preserved from the source DSS.
+
+New Reactor.Grounding phases=1 bus1=sourcebus.4 bus2=sourcebus.0 R=0.0 X=1E-10
+

@@ -1,0 +1,14 @@
+! Reduced network.
+
+clear
+Set DefaultBaseFrequency=50
+
+New Circuit.Reduced_ENWL_Network_14_Feeder_5_modified_phase_to_neutral BasekV=0.416 pu=1.00 ISC3=100000 ISC1=100000
+
+Redirect Linecodes.dss
+Redirect Lines.dss
+Redirect Loads.dss
+
+Set voltagebases=[0.416]
+calcv
+solve
