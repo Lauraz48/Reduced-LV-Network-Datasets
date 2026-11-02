@@ -1,6 +1,6 @@
 # Reduced Low Voltage Network Datasets
 
-This repository releases the **Reduced ENWL_CSIRO Low Voltage Network Datasets**, a collection of structure-preserving reduced OpenDSS network models for distribution system studies.
+This repository releases the **Reduced ENWL Low-voltage Network Datasets**, a collection of structure-preserving reduced OpenDSS network models for distribution system studies.
 
 These datasets are generated from the original ENWL_CSIRO OpenDSS networks using a structure-preserving network reduction framework. 
 The reduction preserves modelling semantics and retained buses' electrical behaviour while substantially reducing model size by removing electrically superfluous buses and line segments. 
@@ -50,8 +50,9 @@ The reduced feeders are derived from the ENWL_CSIRO OpenDSS low voltage power ne
 
 
 ## License and Attribution
+This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">.
 
 
 ## Citation
 
-If these datasets are used in research, teaching, benchmarking, software development, etc., please cite the original ENWL_CSIRO data sources and the associated network reduction work that generated these reduced feeders.
+If these datasets are used in research, teaching, benchmarking, software development, etc., please cite the original ENWL_CSIRO data sources and the associated network reduction paper `**_Structure-preserving Reduction and Network Datasets for Distribution System studies_**' that generated these reduced feeders.
